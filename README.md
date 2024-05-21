@@ -1,4 +1,8 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+```
+Name:Pavithra P
+Reg No:212223110035
+```
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
